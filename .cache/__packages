@@ -1,0 +1,10 @@
+base
+shinyapps
+devtools
+slidify
+shiny
+dplyr
+data.table
+rCharts
+knitr
+ggplot2
